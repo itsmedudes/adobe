@@ -24,7 +24,7 @@ Update the port number, username and password as per your local database config.
 
 ## API Root Endpoint
 
-`containers-us-west-203.railway.app`
+`https://adobe-production.up.railway.app`
 
 `https://localhost:8888/`
 
