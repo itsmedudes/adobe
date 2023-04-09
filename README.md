@@ -24,6 +24,8 @@ Update the port number, username and password as per your local database config.
 
 ## API Root Endpoint
 
+`containers-us-west-203.railway.app`
+
 `https://localhost:8888/`
 
 `http://localhost:8888/swagger-ui/index.html`
